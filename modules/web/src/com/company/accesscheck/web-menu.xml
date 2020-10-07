@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-accesscheck" insertBefore="administration" caption="mainMsg://menu_config.application-accesscheck">
+        <item screen="accesscheck_A.browse" caption="mainMsg://menu_config.accesscheck_A.browse"/>
+        <item screen="accesscheck_B.browse" caption="mainMsg://menu_config.accesscheck_B.browse"/>
+        <item screen="accesscheck_C.browse" caption="mainMsg://menu_config.accesscheck_C.browse"/>
+    </menu>
+</menu-config>
